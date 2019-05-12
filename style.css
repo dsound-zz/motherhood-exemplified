@@ -149,6 +149,11 @@ h1 {
     animation-delay: 96s; 
 }
 
+.slideshow li:nth-child(17) span { 
+    background-image: url("photos/IMG_1789.png");
+    animation-delay: 100s; 
+}
+
 
 
 
